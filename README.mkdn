@@ -1,0 +1,22 @@
+CyanTUX Series
+==============
+
+Submitting Patches
+------------------
+Need Fork To New Github Organitation
+
+Getting Started
+---------------
+
+To get started with Android/Cyantux, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the CyanTux tree, use a command like this:
+
+    repo init -u git://github.com/tuxkids/android_cyantux.git -b gingerbread
+
+Then to sync up:
+
+    repo sync
+
+For More Information just PM me ..
