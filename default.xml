@@ -124,7 +124,7 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanMobile/android_external_zlib_cyanmobile" />
-  <project path="frameworks/base" name="tuxkids/android_frameworks_base_cyantux" />
+  <project path="frameworks/base" name="tuxkids/android_framework_base_cyantux" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
@@ -178,7 +178,7 @@
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" />
   <project path="packages/apps/Phone" name="tuxkids/android_packages_apps_Phone_cyantux" />
-  <project path="packages/apps/Protips" name="tuxkids/android_packages_apps_Protips_cyantux" />
+  <project path="packages/apps/Protips" name="tuxkids/android_package_apps_Protips_cyantux" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
