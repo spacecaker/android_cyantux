@@ -184,7 +184,7 @@
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="packages/apps/Settings" name="tuxkids/android_packages_apps_Settings_cyantux" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
-  <project path="packages/apps/Superuser" name="tuxkids/android_packages_apps_Superuser_cyantux" />
+  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
