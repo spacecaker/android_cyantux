@@ -19,7 +19,7 @@
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
-  <project path="development" name="tuxkids/android_development" />
+  <project path="development" name="tuxkids/android_development_cyantux" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/samsung/cooper" name="tuxkids/android_device_samsung_cooper_cyantux" />
   <project path="device/samsung/gio" name="tuxkids/android_device_samsung_gio_cyantux" />
