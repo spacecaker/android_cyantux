@@ -155,7 +155,7 @@
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera" name="CyanMobile/android_packages_apps_Camera_cyanmobile" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMBatteryCalibrator" name="burstlam/android_packages_apps_CMBatteryCalibrator" />
+  <project path="packages/apps/CMBatteryCalibrator" name="burstlam/android_packages_apps_CMBatteryCalibrator" revision="master" />
   <project path="packages/apps/CMCompassCalibrator" name="CyanMobile/android_packages_apps_CMCompassCalibrator_cyanmobile" />
   <project path="packages/apps/CMDroidwall" name="CyanMobile/android_packages_apps_CMDroidwall_cyanmobile" />
   <project path="packages/apps/CMParts" name="tuxkids/android_packages_apps_CMParts_cyantux" />
